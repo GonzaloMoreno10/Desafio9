@@ -1,0 +1,4 @@
+
+{"title":"Actualizo Fanta","price":150,"thumbnail":"Actualizo Fanta","id":1}
+{"title":"Actualizo papas","price":150,"thumbnail":"Actualizo papas","id":2}
+{"title":"Coca Cola","price":"100","thumbnail":"CocaCola.com","id":3}
